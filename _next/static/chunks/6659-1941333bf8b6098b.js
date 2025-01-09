@@ -535,11 +535,11 @@
         },
       });
       let r = {
-        delysium: "https://delysium.com",
+        delysium: "https://claraai.cc",
         medium: "https://delysium.medium.com",
-        twitter: "https://twitter.com/The_Delysium",
-        discord: "https://discord.gg/thedelysium",
-        telegram: "https://t.me/TheDelysium",
+        twitter: "https://twitter.com/ClaraAI_ETH",
+        discord: "https://discord.gg/ClaraAI_ETH",
+        telegram: "https://t.me/ClaraAI_ETH",
         youtube:
           "https://www.youtube.com/channel/UCalVfmQbvDKVZlz8Cypo9xA/about",
         subscribeTypeForm: "https://delysium.typeform.com/to/xjiPSysJ",

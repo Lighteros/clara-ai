@@ -542,42 +542,10 @@
               width: 80,
               height: 40,
               fill: "none",
+              src: "/img/logo.png"
             },
             A
-          ),
-          s ||
-            (s = o.createElement("path", {
-              fill: "#fff",
-              fillRule: "evenodd",
-              d: "M10.737 15.237V8.643c0-1.956-1.597-3.541-3.567-3.541-1.97 0-3.566 1.585-3.566 3.541v12.121a5.587 5.587 0 0 0-2.291 6.181l.373 1.317c1.355 4.777 6.517 7.364 11.158 5.592l4.802-1.834c.33-.126.638-.285.924-.472h5.236c1.975 0 3.575-1.562 3.575-3.49 0-1.926-1.6-3.489-3.575-3.489h-3.839l.563-.56a3.008 3.008 0 0 0 0-4.266l-.759-.755a3.033 3.033 0 0 0-2.574-.853 3.006 3.006 0 0 0-.827-2.731l-.758-.755a3.039 3.039 0 0 0-4.285 0zM9.548 16.42V8.643a2.37 2.37 0 0 0-2.378-2.36 2.37 2.37 0 0 0-2.377 2.36v12.541l2.89-1.047a3.535 3.535 0 0 1 1.024-2.88zm-7.091 10.2a4.397 4.397 0 0 1 .49-3.512l1.397-.506 6.359-2.423a3.145 3.145 0 0 1 4.125 2.017 2.604 2.604 0 0 1-1.621 3.218l-1.184.42-3.13 1.11.395 1.114 3.71-1.316a3.577 3.577 0 0 0 4.911-.125l1.073-1.067.001.002.014-.015.269.135a.55.55 0 0 0 .248.06h4.292c1.317 0 2.384 1.04 2.384 2.326 0 1.284-1.067 2.326-2.384 2.326h-5.651a3.635 3.635 0 0 1-.933.525l-4.802 1.834c-3.989 1.523-8.426-.7-9.59-4.805zm13.197-5.38a4.01 4.01 0 0 1-1.429 4.932 2.386 2.386 0 0 0 2.844-.391l2.62-2.61a1.828 1.828 0 0 0 0-2.592l-.758-.755a1.846 1.846 0 0 0-2.604 0l-.93.926c.096.155.182.319.257.49m-5.05-2.162a4.022 4.022 0 0 1 3.967.709l.959-.955a1.828 1.828 0 0 0 0-2.593l-.758-.754a1.847 1.847 0 0 0-2.604 0l-2.62 2.609a2.354 2.354 0 0 0-.696 1.618z",
-              clipRule: "evenodd",
-            })),
-          a ||
-            (a = o.createElement("path", {
-              fill: "#fff",
-              fillRule: "evenodd",
-              d: "M7.17 5.202c-1.914 0-3.465 1.541-3.465 3.44v12.176l-.045.03a5.485 5.485 0 0 0-2.25 6.069l.374 1.317c1.338 4.72 6.439 7.276 11.024 5.525l4.802-1.834a4.72 4.72 0 0 0 .905-.462l.025-.017h5.266c1.921 0 3.474-1.519 3.474-3.388s-1.553-3.388-3.474-3.388h-4.084l.736-.733a2.907 2.907 0 0 0 0-4.123l-.758-.755a2.932 2.932 0 0 0-2.488-.824l-.142.02.028-.14a2.905 2.905 0 0 0-.8-2.64l-.757-.755a2.937 2.937 0 0 0-4.142 0l-.763.76V8.643c0-1.9-1.551-3.44-3.466-3.44m-3.667 3.44C3.503 6.63 5.145 5 7.17 5s3.668 1.63 3.668 3.643v6.35l.418-.416a3.14 3.14 0 0 1 4.427 0l.758.754a3.106 3.106 0 0 1 .88 2.687c.9-.088 1.832.211 2.522.898l.758.755a3.109 3.109 0 0 1 0 4.41l-.39.387h3.595c2.028 0 3.676 1.605 3.676 3.59 0 1.985-1.648 3.59-3.676 3.59H18.6c-.285.185-.592.341-.918.466l-4.802 1.834c-4.696 1.793-9.92-.825-11.29-5.658l-.374-1.318a5.686 5.686 0 0 1 2.287-6.263zm3.667-2.26a2.268 2.268 0 0 0-2.276 2.26V21.04l2.68-.971a3.635 3.635 0 0 1 1.062-2.882l.811-.808V8.643a2.268 2.268 0 0 0-2.277-2.26m-2.478 2.26A2.47 2.47 0 0 1 7.17 6.182a2.47 2.47 0 0 1 2.48 2.462v7.819l-.871.867a3.434 3.434 0 0 0-.996 2.797l.008.078-3.1 1.123zM14.7 15.558a1.746 1.746 0 0 0-2.46 0l-2.62 2.609c-.394.39-.613.889-.658 1.4l1.607-.583a4.123 4.123 0 0 1 3.995.668l.894-.89c.68-.677.68-1.773 0-2.45zm-2.603-.143a1.948 1.948 0 0 1 2.746 0l.758.754c.758.756.758 1.98 0 2.736l-1.025 1.02-.07-.06a3.921 3.921 0 0 0-3.868-.69l-1.89.684.003-.148c.014-.612.256-1.22.725-1.687zm6.763 4.482a1.746 1.746 0 0 0-2.461 0l-.874.87a4.11 4.11 0 0 1-1.105 5.393c.844.394 1.88.244 2.578-.45l2.62-2.609c.68-.676.68-1.773 0-2.449zm-2.604-.143a1.948 1.948 0 0 1 2.746 0l.758.755c.76.755.76 1.98 0 2.736l-2.62 2.609c-.803.8-2.02.935-2.964.408l-.143-.08.136-.092a3.909 3.909 0 0 0 1.143-5.286l-.042-.068zm-1.525 2.473a3.044 3.044 0 0 0-3.992-1.952l-6.36 2.424-1.364.494a4.296 4.296 0 0 0-.461 3.401l.373 1.317c1.148 4.049 5.523 6.241 9.457 4.74l4.802-1.835c.332-.126.636-.3.907-.51l.027-.021h5.686c1.263 0 2.282-1 2.282-2.226s-1.019-2.225-2.282-2.225h-4.292a.651.651 0 0 1-.294-.07l-.2-.1-.05.055-.005-.008-.984.98a3.678 3.678 0 0 1-5.005.168l-3.75 1.33-.463-1.305 3.226-1.144 1.184-.42a2.503 2.503 0 0 0 1.558-3.093m4.301 3.216.28.14a.45.45 0 0 0 .202.049h4.292c1.37 0 2.485 1.084 2.485 2.427s-1.115 2.427-2.485 2.427h-4.872v.001h-.745c-.28.213-.592.389-.93.518l-4.803 1.834c-4.044 1.544-8.543-.71-9.723-4.872l-.374-1.318a4.498 4.498 0 0 1 .502-3.592l.018-.03 1.429-.518h.001l6.358-2.423a3.246 3.246 0 0 1 4.258 2.082 2.705 2.705 0 0 1-1.685 3.343l-1.183.42-3.036 1.076.329.923 3.671-1.302.045.04a3.476 3.476 0 0 0 4.772-.12l1.115-1.11.022-.024.024-.023z",
-              clipRule: "evenodd",
-            })),
-          r ||
-            (r = o.createElement("path", {
-              fill: "#fff",
-              fillRule: "evenodd",
-              d: "M14.56 21.715a2.836 2.836 0 0 0-3.562-1.526L2.87 23.133l-.403-1.11 8.126-2.945a4.02 4.02 0 0 1 5.05 2.163 4.01 4.01 0 0 1-2.335 5.388l-4.03 1.43-.396-1.114 4.03-1.43a2.828 2.828 0 0 0 1.647-3.8",
-              clipRule: "evenodd",
-            })),
-          n ||
-            (n = o.createElement("path", {
-              fill: "#fff",
-              fillRule: "evenodd",
-              d: "M10.56 18.983a4.12 4.12 0 0 1 5.177 2.217 4.11 4.11 0 0 1-2.394 5.524l-4.126 1.463-.464-1.304 4.126-1.463a2.727 2.727 0 0 0 1.589-3.665 2.734 2.734 0 0 0-3.436-1.471L2.81 23.262l-.473-1.3zm4.992 2.298a3.919 3.919 0 0 0-4.924-2.108l-8.031 2.91.335.92 8.031-2.91a2.936 2.936 0 0 1 3.69 1.58 2.93 2.93 0 0 1-1.707 3.937l-3.934 1.396.328.923 3.935-1.396a3.908 3.908 0 0 0 2.277-5.252",
-              clipRule: "evenodd",
-            })),
-          i ||
-            (i = o.createElement("path", {
-              fill: "#fff",
-              d: "m78.48 17.27-6.671 16.294h-1.9l2.183-5.337-4.468-10.957h2.042l3.477 8.976 3.437-8.975zM55.567 22.79c0-1.146.23-2.143.688-2.992a4.95 4.95 0 0 1 1.9-2.002c.822-.471 1.759-.707 2.81-.707 1.361 0 2.48.33 3.356.99.89.66 1.475 1.577 1.758 2.75H64.1a2.828 2.828 0 0 0-1.113-1.597c-.539-.391-1.212-.587-2.021-.587-1.051 0-1.9.364-2.547 1.092-.647.714-.97 1.732-.97 3.053 0 1.334.323 2.365.97 3.093.647.727 1.496 1.091 2.547 1.091.808 0 1.482-.189 2.021-.566.54-.377.91-.916 1.112-1.617h1.981c-.296 1.132-.89 2.042-1.778 2.729-.89.674-2.002 1.01-3.336 1.01-1.051 0-1.988-.235-2.81-.707a4.949 4.949 0 0 1-1.9-2.001c-.459-.863-.688-1.873-.688-3.032M52.744 17.27V28.35h-1.84V26.71a3.636 3.636 0 0 1-1.475 1.334c-.62.31-1.307.465-2.062.465-.862 0-1.637-.175-2.325-.525a4.023 4.023 0 0 1-1.637-1.617c-.391-.715-.586-1.584-.586-2.608v-6.49h1.819v6.247c0 1.092.276 1.934.829 2.527.552.58 1.307.87 2.264.87.984 0 1.759-.304 2.325-.91.566-.607.849-1.49.849-2.649V17.27zM35.63 26.853h4.932v1.496H33.79v-14.09h1.84z",
-            }))
+          )
         );
       };
     },
@@ -1063,11 +1031,11 @@
         },
       });
       let s = {
-        delysium: "https://delysium.com",
+        delysium: "https://claraai.cc",
         medium: "https://delysium.medium.com",
-        twitter: "https://twitter.com/The_Delysium",
-        discord: "https://discord.gg/thedelysium",
-        telegram: "https://t.me/TheDelysium",
+        twitter: "https://twitter.com/ClaraAI_ETH",
+        discord: "https://discord.gg/ClaraAI_ETH",
+        telegram: "https://t.me/ClaraAI_ETH",
         youtube:
           "https://www.youtube.com/channel/UCalVfmQbvDKVZlz8Cypo9xA/about",
         subscribeTypeForm: "https://delysium.typeform.com/to/xjiPSysJ",
@@ -1136,7 +1104,7 @@
           className: c().MobileIntercept,
           children: [
             (0, f.jsx)(y(), {
-              src: "/img/logo.svg",
+              src: "/img/logo.png",
               width: 100,
               height: 50,
               alt: "logo",
@@ -1311,11 +1279,8 @@
         k = e(51192),
         F = e(17237);
       let R = [
-        { Icon: U.Z, link: Q.m.medium },
         { Icon: I.Z, link: Q.m.twitter },
-        { Icon: D.Z, link: Q.m.discord },
         { Icon: k.Z, link: Q.m.telegram },
-        { Icon: F.Z, link: Q.m.youtube },
       ];
       function LandingFooter() {
         let A = new Date().getFullYear();
@@ -1340,7 +1305,7 @@
                         (0, f.jsx)("div", {
                           className: "mb-6 part-desc",
                           children:
-                            "Sign up to keep track of all things about Lucy!",
+                            "Sign up to keep track of all things about Clara!",
                         }),
                         (0, f.jsx)("a", {
                           href: "/enter",
@@ -1458,7 +1423,7 @@
                     (0, f.jsx)("div", {
                       className: "card-desc",
                       children:
-                        "Lucy uses AI, modular infrastructure, and canvas-based user interaction to power a simpler Web3 experience. With automated workflows, Lucy manages your on-chain activities in the blink of an eye.",
+                        "Clara uses AI, modular infrastructure, and canvas-based user interaction to power a simpler Web3 experience. With automated workflows, Clara manages your on-chain activities in the blink of an eye.",
                     }),
                     (0, f.jsx)(MagicalGradButton, {
                       purpleColor: !0,
@@ -1494,7 +1459,7 @@
                           (0, f.jsx)("div", {
                             className: "card-desc",
                             children:
-                              "Lucy, understands your requests and turns them into workflows.",
+                              "Clara, understands your requests and turns them into workflows.",
                           }),
                         ],
                       }),
@@ -1517,7 +1482,7 @@
                           (0, f.jsx)("div", {
                             className: "card-desc",
                             children:
-                              "Lucy simplifies Web3 by managing everything from basic functions like transfer and staking to a set of complex on-chain interactions.",
+                              "Clara simplifies Web3 by managing everything from basic functions like transfer and staking to a set of complex on-chain interactions.",
                           }),
                         ],
                       }),
@@ -1884,25 +1849,6 @@
       };
       function PoweredBy() {
         return (0, f.jsxs)("div", {
-          className: P()(Am().PoweredBy, "mint-card"),
-          children: [
-            (0, f.jsxs)("div", {
-              className: "card-title flex items-center gap-4",
-              children: ["Powered by", (0, f.jsx)(delysium_logo, {})],
-            }),
-            (0, f.jsx)("div", {
-              className: "card-desc",
-              children:
-                "Delysium introduces the “YKILY” AI-Agent Network, connecting the world of blockchain with the world of AI to ultimately serve humanity.",
-            }),
-            (0, f.jsx)(MagicalGradButton, {
-              purpleColor: !0,
-              onClick: () => {
-                window.open(Q.m.delysium, "_blank");
-              },
-              children: "Know More",
-            }),
-          ],
         });
       }
       var Aq = e(73914),
@@ -1924,7 +1870,7 @@
               purpleColor: !0,
               onClick: () => {
                 window.open(
-                  "https://delysium.gitbook.io/whitepaper/technical-overview/blockchain-layer-integration-of-ai-x-blockchain/key-components-of-this-integration/agent-id-conditional-access-and-agent-identification",
+                  "https://alexeys-organization-9.gitbook.io/clara-ai",
                   "_blank"
                 );
               },
@@ -2314,11 +2260,11 @@
                     (0, f.jsx)("div", {
                       className: "card-desc",
                       children:
-                        "Lucy leverages an infinite canvas to streamline and automate your Web3 interactions, facilitating seamless workflows across Dapps and protocols.",
+                        "Clara leverages an infinite canvas to streamline and automate your Web3 interactions, facilitating seamless workflows across Dapps and protocols.",
                     }),
                     (0, f.jsx)(StageInteractArea, {
                       stageNum: 1,
-                      prompt: "Hi Lucy, help me complete AGI-USDT LP staking.",
+                      prompt: "Hi Clara, help me complete AGI-USDT LP staking.",
                     }),
                   ],
                 }),
@@ -2352,7 +2298,7 @@
                       className: "card-desc",
                       style: { "--width": "749px" },
                       children:
-                        "Lucy integrates Agent ID, powered by account abstraction, for easy, secure blockchain transactions. streamlining crypto experience across platforms.",
+                        "Clara integrates Agent ID, powered by account abstraction, for easy, secure blockchain transactions. streamlining crypto experience across platforms.",
                     }),
                     (0, f.jsx)(StageInteractArea, {
                       stageNum: 2,
@@ -2376,7 +2322,7 @@
                     (0, f.jsxs)("div", {
                       className: "card-title",
                       children: [
-                        "LucyOS: Enabling a Network",
+                        "ClaraAI: Enabling a Network",
                         (0, f.jsx)("br", {}),
                         (0, f.jsx)("span", {
                           className: "muted",
@@ -2388,7 +2334,7 @@
                     (0, f.jsx)("div", {
                       className: "card-desc",
                       children:
-                        "Lucy evolves into an OS, allowing creation and interaction with a network of intelligent agents using natural language.",
+                        "Clara evolves into an OS, allowing creation and interaction with a network of intelligent agents using natural language.",
                     }),
                     (0, f.jsx)("div", { className: "card-cover" }),
                   ],
@@ -2433,24 +2379,24 @@
       };
       let AD = [
         {
-          title: "What is Lucy?",
+          title: "What is Clara AI?",
           content:
-            "Lucy, the pioneering AI agent from the AI Agent Network created by Delysium, is an AI-powered Web3 Operating System designed to streamline your crypto-journey.\n\n    With the ability to intuitively create crypto-workflows, Lucy connects a variety of Web3 applications and protocols using natural language, simplifying complex processes.\n\n    Moreover, Lucy's distinct feature lies in its open architecture, enabling seamless integration with a diverse range of Web3 agents. This flexibility not only supports the development of new agents but also enhances intelligent automation in the realm of cryptocurrency.",
+            "Clara, the pioneering AI agent from the AI Agent Network created by Delysium, is an AI-powered Web3 Operating System designed to streamline your crypto-journey.\n\n    With the ability to intuitively create crypto-workflows, Clara connects a variety of Web3 applications and protocols using natural language, simplifying complex processes.\n\n    Moreover, Clara's distinct feature lies in its open architecture, enabling seamless integration with a diverse range of Web3 agents. This flexibility not only supports the development of new agents but also enhances intelligent automation in the realm of cryptocurrency.",
         },
         {
-          title: "How to use Lucy? What can I do?",
+          title: "How to use Clara AI? What can I do?",
           content:
-            "After connecting their wallet, users can simply communicate their objectives to Lucy in natural language. Lucy then autonomously charts a course to achieve these goals, leveraging third-party applications or protocols as needed. This automation makes the Web3 experience more accessible and convenient for a broader range of users. With Lucy, intricate knowledge of crypto operations and implementation steps is no longer a necessity, as it handles these tasks in a more user-friendly manner.\n\n    Lucy enables users to effortlessly manage a wide array of crypto-related tasks. From basic actions like asset checking and transfers to more complex operations such as staking, swapping, cross-chain activities, contract tracking, and trading strategies, Lucy exactly simplifies and streamlines the process.\n\n    Moreover, Lucy's open architecture is a bedrock of limitless potential. Developers can integrate Lucy into their own applications, protocols, or projects, opening up an expansive range of application scenarios and further enhancing the Web3 ecosystem.",
+            "After connecting their wallet, users can simply communicate their objectives to Clara in natural language. Clara then autonomously charts a course to achieve these goals, leveraging third-party applications or protocols as needed. This automation makes the Web3 experience more accessible and convenient for a broader range of users. With Clara, intricate knowledge of crypto operations and implementation steps is no longer a necessity, as it handles these tasks in a more user-friendly manner.\n\n    Clara enables users to effortlessly manage a wide array of crypto-related tasks. From basic actions like asset checking and transfers to more complex operations such as staking, swapping, cross-chain activities, contract tracking, and trading strategies, Clara exactly simplifies and streamlines the process.\n\n    Moreover, Clara's open architecture is a bedrock of limitless potential. Developers can integrate Clara into their own applications, protocols, or projects, opening up an expansive range of application scenarios and further enhancing the Web3 ecosystem.",
         },
         {
-          title: "What kinds of agents can be integrated into Lucy?",
+          title: "What kinds of agents can be integrated into Clara AI?",
           content:
-            "Lucy is capable of integrating a multitude of distinct agents, each with its own specialized functions. For example, a trading agent enables users to intelligently monitor token contracts and transaction data, assisting in the formulation of savvy trading strategies; an DEX aggregator agent assists users in locating the most efficient transaction routes across various on-chain markets, aiding in the execution of collateral, borrowing, lending, and swapping activities with optimal cost, time, and security considerations; additionally, an information agent can provide users with targeted information, such as project overviews, whitepaper analyses, and the latest news updates. In fact, the variety of agents that Lucy can incorporate is vast and continually expanding. With each iteration, Lucy grows more powerful and open, fostering a rich and diverse AI Agent ecosystem.",
+            "Clara is capable of integrating a multitude of distinct agents, each with its own specialized functions. For example, a trading agent enables users to intelligently monitor token contracts and transaction data, assisting in the formulation of savvy trading strategies; an DEX aggregator agent assists users in locating the most efficient transaction routes across various on-chain markets, aiding in the execution of collateral, borrowing, lending, and swapping activities with optimal cost, time, and security considerations; additionally, an information agent can provide users with targeted information, such as project overviews, whitepaper analyses, and the latest news updates. In fact, the variety of agents that Clara can incorporate is vast and continually expanding. With each iteration, Clara grows more powerful and open, fostering a rich and diverse AI Agent ecosystem.",
         },
         {
-          title: "What chains does Lucy support?",
+          title: "What chains does Clara support?",
           content:
-            "Currently, Lucy offers support for both Ethereum and BNB Chain. Looking ahead, Lucy is set to expand its connectivity to mainstream ecosystems, with the aim of delivering an intelligent experience to a wide array of users across various platforms. This expansion is geared towards making Lucy a versatile and comprehensive tool in the evolving landscape of Web3 technologies.",
+            "Currently, Clara offers support for both Ethereum and BNB Chain. Looking ahead, Clara is set to expand its connectivity to mainstream ecosystems, with the aim of delivering an intelligent experience to a wide array of users across various platforms. This expansion is geared towards making Clara a versatile and comprehensive tool in the evolving landscape of Web3 technologies.",
         },
       ];
       function FaqCollapse() {
@@ -2485,9 +2431,9 @@
                 }),
                 (0, f.jsx)(MagicalGradButton, {
                   onClick: () => {
-                    window.open(Q.m.discord, "_blank");
+                    window.open("http://t.me/ClaraAI_ETH", "_blank");
                   },
-                  children: "Know More",
+                  children: "Join Community",
                 }),
               ],
             }),

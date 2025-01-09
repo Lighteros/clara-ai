@@ -578,15 +578,7 @@
       "use strict";
       function defaultLoader(e) {
         let { config: t, src: r, width: i, quality: n } = e;
-        return (
-          t.path +
-          "?url=" +
-          encodeURIComponent(r) +
-          "&w=" +
-          i +
-          "&q=" +
-          (n || 75)
-        );
+        return r;
       }
       Object.defineProperty(t, "__esModule", { value: !0 }),
         Object.defineProperty(t, "default", {

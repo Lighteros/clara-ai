@@ -123,7 +123,7 @@
                                 className:
                                   "absolute left-0 top-0 h-[29.51px] w-[26.48px]",
                                 children: (0, t.jsx)(o(), {
-                                  src: "/img/lucy-light-icon.svg",
+                                  src: "/lucy-light-icon.svg",
                                   width: 80,
                                   height: 40,
                                   alt: "aside-logo",
@@ -239,7 +239,7 @@
                               children: (0, t.jsx)("div", {
                                 className: "relative",
                                 children: (0, t.jsx)(o(), {
-                                  src: "/img/aside/aside-logo.svg",
+                                  src: "/img/aside/logo.png",
                                   width: 80,
                                   height: 40,
                                   alt: "aside-logo",
@@ -283,7 +283,7 @@
                                       (0, t.jsx)("div", {
                                         className:
                                           " text-sm font-medium text-[#7d5fa3]",
-                                        children: "Talk to Lucy",
+                                        children: "Talk to Clara",
                                       }),
                                       (0, t.jsx)("div", {
                                         className: "relative w-5 h-5",

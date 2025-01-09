@@ -278,7 +278,7 @@
                         (0, g.jsx)("div", {
                           className: "part-desc mb-6 w-[195px] text-center",
                           children:
-                            "Sign up to keep track of all things about Lucy!",
+                            "Sign up to keep track of all things about Clara!",
                         }),
                         (0, g.jsx)("a", {
                           href: "/enter",
@@ -397,7 +397,7 @@
                       (0, g.jsx)("div", {
                         className: "card-desc",
                         children:
-                          "Lucy uses AI, modular infrastructure, and canvas-based user interaction to power a simpler Web3 experience. With automated workflows, Lucy manages your on-chain activities in the blink of an eye.",
+                          "Clara uses AI, modular infrastructure, and canvas-based user interaction to power a simpler Web3 experience. With automated workflows, Clara manages your on-chain activities in the blink of an eye.",
                       }),
                       (0, g.jsx)("a", {
                         className: "know-button",
@@ -434,7 +434,7 @@
                             (0, g.jsx)("div", {
                               className: "card-desc",
                               children:
-                                "Lucy, understands your requests and turns them into workflows.",
+                                "Clara, understands your requests and turns them into workflows.",
                             }),
                           ],
                         }),
@@ -459,7 +459,7 @@
                             (0, g.jsx)("div", {
                               className: "card-desc",
                               children:
-                                "Lucy simplifies Web3 by managing everything from basic functions like transfer and staking to a set of complex on-chain interactions.",
+                                "Clara simplifies Web3 by managing everything from basic functions like transfer and staking to a set of complex on-chain interactions.",
                             }),
                           ],
                         }),
@@ -828,35 +828,6 @@
       };
       function PoweredBy() {
         return (0, g.jsxs)("div", {
-          className: N()(
-            ev().PoweredBy,
-            "mint-card flex flex-col items-center"
-          ),
-          children: [
-            (0, g.jsx)("div", { className: "card-cover" }),
-            (0, g.jsxs)("div", {
-              className: "card-title flex items-center gap-4",
-              children: [
-                "Powered by",
-                (0, g.jsx)(delysium_logo_mobile, {
-                  width: "120",
-                  height: "58",
-                  preserveAspectRatio: "none",
-                }),
-              ],
-            }),
-            (0, g.jsx)("div", {
-              className: "card-desc",
-              children:
-                "Delysium introduces the “YKILY” AI-Agent Network, connecting the world of blockchain with the world of AI to ultimately serve humanity.",
-            }),
-            (0, g.jsx)("a", {
-              className: "know-button",
-              href: F.m.delysium,
-              target: "_blank",
-              children: "Know More",
-            }),
-          ],
         });
       }
       var ef = s(33537),
@@ -877,7 +848,7 @@
             }),
             (0, g.jsx)("a", {
               className: "know-button",
-              href: F.m.agentId,
+              href: "https://alexeys-organization-9.gitbook.io/clara-ai",
               target: "_blank",
               children: "Know More",
             }),
@@ -992,7 +963,7 @@
                   (0, g.jsx)("div", {
                     className: "card-desc",
                     children:
-                      "Lucy leverages an infinite canvas to streamline and automate your Web3 interactions, facilitating seamless workflows across Dapps and protocols.",
+                      "Clara leverages an infinite canvas to streamline and automate your Web3 interactions, facilitating seamless workflows across Dapps and protocols.",
                   }),
                   (0, g.jsx)("div", {
                     className: "lottie-container",
@@ -1030,7 +1001,7 @@
                     className: "card-desc",
                     style: { "--width": "749px" },
                     children:
-                      "Lucy integrates Agent ID, powered by account abstraction, for easy, secure blockchain transactions. streamlining crypto experience across platforms.",
+                      "Clara integrates Agent ID, powered by account abstraction, for easy, secure blockchain transactions. streamlining crypto experience across platforms.",
                   }),
                   (0, g.jsx)("div", { className: "stage-2-cover" }),
                 ],
@@ -1051,7 +1022,7 @@
                   (0, g.jsxs)("div", {
                     className: "card-title",
                     children: [
-                      "LucyOS: Enabling a Network",
+                      "ClaraAI: Enabling a Network",
                       (0, g.jsx)("br", {}),
                       (0, g.jsx)("span", {
                         className: "muted",
@@ -1063,7 +1034,7 @@
                   (0, g.jsx)("div", {
                     className: "card-desc",
                     children:
-                      "Lucy evolves into an OS, allowing creation and interaction with a network of intelligent agents using natural language.",
+                      "Clara evolves into an OS, allowing creation and interaction with a network of intelligent agents using natural language.",
                   }),
                   (0, g.jsx)("div", { className: "stage-3-cover" }),
                 ],
@@ -1214,13 +1185,13 @@
                 (0, g.jsx)("div", {
                   className: "faq-desc",
                   children:
-                    "Have more questions about Lucy? Ask in our community!",
+                    "Have more questions about Clara AI? Ask in our community!",
                 }),
                 (0, g.jsx)("a", {
                   className: "know-button",
-                  href: F.m.discord,
+                  href: "http://t.me/ClaraAI_ETH",
                   target: "_blank",
-                  children: "Know More",
+                  children: "Join Community",
                 }),
               ],
             }),
@@ -1253,7 +1224,7 @@
             className: eO().pageLanding,
             children: [
               (0, g.jsx)(j(), {
-                children: (0, g.jsx)("title", { children: "Lucy" }),
+                children: (0, g.jsx)("title", { children: "Clara" }),
               }),
               "desktop" === t
                 ? (0, g.jsxs)("span", {

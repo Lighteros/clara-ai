@@ -193,7 +193,7 @@
             className: "w-full h-full",
             children: [
               (0, c.jsx)(s(), {
-                children: (0, c.jsx)("title", { children: "Lucy" }),
+                children: (0, c.jsx)("title", { children: "Clara" }),
               }),
               (0, c.jsx)(l.default, {}),
               (0, c.jsx)(f.Z, {

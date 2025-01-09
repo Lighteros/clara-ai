@@ -361,7 +361,7 @@
               (0, _.jsx)("div", {
                 className: "info-desc",
                 children:
-                  "By connecting to Lucy, you agree to Terms of Service and Privacy Policy.",
+                  "By connecting to Clara, you agree to Terms of Service and Privacy Policy.",
               }),
               (0, _.jsxs)("div", {
                 className: "flex flex-col gap-[24px]",
@@ -510,26 +510,11 @@
           children: [
             (0, a.jsx)("div", {
               className: "text-xs font-normal text-zinc-400",
-              children: "Copyright \xa9 2024 Delysium. All rights reserved.",
+              children: "Copyright \xa9 2025 Clara AI. All rights reserved.",
             }),
             (0, a.jsxs)("div", {
               className: "mt-[15px] flex items-center justify-center",
               children: [
-                (0, a.jsx)("div", {
-                  className: "text-xs font-normal text-zinc-400 underline",
-                  children: (0, a.jsx)(s(), {
-                    href: "https://www.delysium.com/account/terms-of-use",
-                    children: "Terms of Use",
-                  }),
-                }),
-                (0, a.jsx)("div", {
-                  className:
-                    "ms-[15px] text-xs font-normal text-zinc-400 underline",
-                  children: (0, a.jsx)(s(), {
-                    href: "https://www.delysium.com/account/privacy-policy",
-                    children: "Privacy Policy",
-                  }),
-                }),
               ],
             }),
           ],
@@ -573,7 +558,7 @@
                 "mt-[-70px] flex h-full w-full flex-col items-center justify-center",
               children: [
                 (0, a.jsx)(l(), {
-                  src: "/img/logo.svg",
+                  src: "/img/logo.png",
                   width: 128,
                   height: 64,
                   alt: "logo",

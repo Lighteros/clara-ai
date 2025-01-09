@@ -478,7 +478,7 @@
           children: [
             (0, f.jsx)("div", {
               className: "info-desc",
-              children: "to start exploring Lucy",
+              children: "to start exploring Clara",
             }),
             (0, f.jsxs)("div", {
               className: "flex flex-col gap-[24px]",
@@ -803,7 +803,7 @@
               (0, w.jsx)("div", {
                 className: "info-desc",
                 children:
-                  "By connecting to Lucy, you agree to Terms of Service and Privacy Policy.",
+                  "By connecting to Clara, you agree to Terms of Service and Privacy Policy.",
               }),
               (0, w.jsxs)("div", {
                 className: "flex flex-col gap-[24px]",

@@ -103,7 +103,7 @@
             }),
             (0, c.jsx)("div", {
               className: "hello-text",
-              children: "I'm Lucy. How can I help you today?",
+              children: "I'm Clara. How can I help you today?",
             }),
           ],
         });
@@ -192,7 +192,7 @@
       let { TextArea: G } = O.default,
         H = [
           {
-            name: "Lucy",
+            name: "Clara",
             desc: "AI-Powered Web3 Operating System.",
             icon: "/img/lucy-light-icon.svg",
             path: "/chat",
@@ -340,7 +340,7 @@
                     value: i,
                     onChange: (e) => r(e.target.value),
                     placeholder:
-                      "Ask Lucy anything about Web3, the latest projects and new workflows",
+                      "Ask Clara anything about Web3, the latest projects and new workflows",
                     autoSize: { minRows: 1, maxRows: 4 },
                     onFocus: () => {
                       t && t();
@@ -471,13 +471,13 @@
                     src: "/img/lucy-icon.svg",
                     width: 40,
                     height: 40,
-                    alt: "lucy",
+                    alt: "Clara",
                   }),
                 }),
                 (0, c.jsx)("div", {
                   className:
                     "ms-[16px] h-[19px] w-[672px] text-base font-bold ",
-                  children: "Lucy",
+                  children: "Clara",
                 }),
               ],
             }),
@@ -561,12 +561,12 @@
                     src: "/img/greeting/chat.svg",
                     width: 40,
                     height: 40,
-                    alt: "lucy",
+                    alt: "Clara",
                   }),
                 }),
                 (0, c.jsx)("div", {
                   className: "ms-[16px] h-[19px] w-[672px] text-base font-bold",
-                  children: "Lucy",
+                  children: "Clara",
                 }),
               ],
             }),
@@ -577,7 +577,7 @@
                   className:
                     "mb-[10px] inline-block text-base font-normal leading-normal",
                   children: [
-                    "Hey there! This is Lucy, the 1st AI-Powered Web3 Operating System. (Beta Now)",
+                    "Hey there! This is Clara, the 1st AI-Powered Web3 Operating System. (Beta Now)",
                     (0, c.jsx)("br", {}),
                     "I’m here to make it easier for you to access the crypto world.",
                   ],
@@ -689,7 +689,7 @@
                           className:
                             "w-[656px] text-sm font-normal leading-[21px] text-textPrimary opacity-60",
                           children:
-                            "Lucy setup has been updated. Previous messages won't be used as context for new queries.",
+                            "Clara setup has been updated. Previous messages won't be used as context for new queries.",
                         }),
                       ],
                     }),
@@ -1223,7 +1223,7 @@
         return (0, c.jsxs)(c.Fragment, {
           children: [
             (0, c.jsx)(d(), {
-              children: (0, c.jsx)("title", { children: "Lucy" }),
+              children: (0, c.jsx)("title", { children: "Clara" }),
             }),
             (0, c.jsx)(eE.Z, { children: (0, c.jsx)(ChatLayout, {}) }),
           ],
