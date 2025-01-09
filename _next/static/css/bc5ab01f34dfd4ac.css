@@ -1,0 +1,61 @@
+.SwitchWalletModal_SwitchNetworkModal__90lN0 {
+  border: 1px solid #000;
+  border-radius: 8px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.SwitchWalletModal_SwitchNetworkModal__90lN0,
+.SwitchWalletModal_SwitchNetworkModal__90lN0 * {
+  font-family: Poppins, sans-serif;
+}
+.SwitchWalletModal_SwitchNetworkModal__90lN0 .ant-modal-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  color: #000;
+}
+.SwitchWalletModal_SwitchNetworkModal__90lN0 .ant-modal-content {
+  padding: 32px;
+}
+.SwitchWalletModal_SwitchNetworkModal__90lN0 .ant-modal-close {
+  color: #000;
+}
+.SwitchWalletModal_SwitchNetworkModal__90lN0 .info-desc {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  margin-bottom: 32px;
+}
+.SwitchWalletModal_SwitchNetworkModal__90lN0 .checked-icon {
+  position: absolute;
+  right: 24px;
+  top: 12px;
+  display: none;
+}
+.SwitchWalletModal_SwitchNetworkModal__90lN0 .chain-item {
+  background: #edeeff;
+  padding: 14px 24px;
+  cursor: pointer;
+  position: relative;
+  line-height: 1;
+}
+.SwitchWalletModal_SwitchNetworkModal__90lN0 .chain-item.is-checked {
+  background: linear-gradient(91.47deg, #bccaff, #edeeff);
+}
+.SwitchWalletModal_SwitchNetworkModal__90lN0
+  .chain-item.is-checked
+  .checked-icon {
+  display: block;
+}
+.enter_PageEnter__77xFP {
+  position: fixed;
+  inset: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.enter_PageEnter__77xFP .button-content,
+.enter_PageEnter__77xFP .text-white,
+.enter_PageEnter__77xFP img {
+  filter: invert(100%);
+}
