@@ -1870,7 +1870,7 @@
               purpleColor: !0,
               onClick: () => {
                 window.open(
-                  "https://alexeys-organization-9.gitbook.io/clara-ai",
+                  "https://docs.claraai.cc",
                   "_blank"
                 );
               },

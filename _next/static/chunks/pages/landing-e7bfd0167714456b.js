@@ -848,7 +848,7 @@
             }),
             (0, g.jsx)("a", {
               className: "know-button",
-              href: "https://alexeys-organization-9.gitbook.io/clara-ai",
+              href: "https://docs.claraai.cc",
               target: "_blank",
               children: "Know More",
             }),
