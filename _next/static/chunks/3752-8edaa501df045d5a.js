@@ -1250,7 +1250,7 @@
                 }),
                 (0, f.jsx)(MagicalGradButton, {
                   onClick: () => {
-                    A.push("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000");
+                    A.push("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x1B50924E4ec13B10127C6DFEdAB6917127e49F99");
                   },
                   lightBorder: !0,
                   children: "Buy Clara",
